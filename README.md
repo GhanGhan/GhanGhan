@@ -9,6 +9,8 @@
 
 - 🗄️ All of my projects are available at [https://hackaday.io/projects/hacker/1239359](https://hackaday.io/projects/hacker/1239359)
 
+- My projects involve the use of microcontrollers, schematic capture, PCB Design, circuit design and control systems
+
 - 📫 How to reach me **ghani.lawal@outlook.com**
 
 - I have experience working at a fast paced startup - [Swap Robotics](https://www.swaprobotics.com).  This, plus the knowledge I gain from taking technical courses and working on personal hardware projects make highly skilled and hands-on engineer.
