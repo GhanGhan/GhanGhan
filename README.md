@@ -11,6 +11,8 @@
 
 - 📫 How to reach me **ghani.lawal@outlook.com**
 
+- I have experience working at a fast paced startup - [Swap Robotics](https://www.swaprobotics.com).  This, plus the knowledge I gain from taking technical courses and working on personal hardware projects make highly skilled and hands-on engineer.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/linkedin.com/in/ghani-lawal-0b74b08b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/ghani-lawal-0b74b08b/" height="30" width="40" /></a>
