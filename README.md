@@ -3,7 +3,7 @@
 
 - 🗲 I recently created a cool electrical project. [Music Spectrum and dB Visualizer](https://github.com/GhanGhan/Music_Visualizer)
 
-- 🌱 I’m currently learning **To Use ARM processors!**
+- 🌱 I’m currently learning to use **ARM processors!**
 
 - 🤖 Check out my first robotic project! [Remote Control Differential Drive Robotic Car](https://github.com/GhanGhan/Robot_Smart_Car)
 
