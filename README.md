@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ghani Lawal</h1>
 <h3 align="center">A passionate electrical/hardware engineer from Ontario, Canada</h3>
 
-- 🔭 I recently created a cool electrical project. [Music Spectrum and dB Visualizer](https://github.com/GhanGhan/Music_Visualizer)
+- 🗲 I recently created a cool electrical project. [Music Spectrum and dB Visualizer](https://github.com/GhanGhan/Music_Visualizer)
 
 - 🌱 I’m currently learning **To Use ARM processors!**
 
-- 👯 Check out my first robotic project! [Remote Control Differential Drive Robotic Car](https://github.com/GhanGhan/Robot_Smart_Car)
+- 🤖 Check out my first robotic project! [Remote Control Differential Drive Robotic Car](https://github.com/GhanGhan/Robot_Smart_Car)
 
-- 👨‍💻 All of my projects are available at [https://hackaday.io/projects/hacker/1239359](https://hackaday.io/projects/hacker/1239359)
+- 🗄️ All of my projects are available at [https://hackaday.io/projects/hacker/1239359](https://hackaday.io/projects/hacker/1239359)
 
 - 📫 How to reach me **ghani.lawal@outlook.com**
 
