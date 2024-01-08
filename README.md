@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ghani Lawal</h1>
+<h1 align="center">Hello World 👋, I'm Ghani Lawal</h1>
 <h3 align="center">A passionate electrical/hardware engineer from Ontario, Canada</h3>
 
 - 🗲 I recently created a cool electrical project. [Music Spectrum and dB Visualizer](https://github.com/GhanGhan/Music_Visualizer)
