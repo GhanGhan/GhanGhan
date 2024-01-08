@@ -9,9 +9,7 @@
      - KiCad (Schematic Capture and PCB layout)
      - Multimeters, Oscilloscopes, Function Generators
      - Soldering (Surface Mount and Through-Hole)
-
-- 🌱 I’m currently learning to use **ARM processors!**
-
+     - 
 - 🤖 Check out my first robotic project! [Remote Control Differential Drive Robotic Car](https://github.com/GhanGhan/Robot_Smart_Car)
   - Skills and technologies required:
      - C/C++
@@ -21,8 +19,13 @@
      - Visual Studio Code
      - Arduino
      - DC motors
+- List of online courses I have successfully completed:
+  - [Crash Course Electronics and PCB Design](https://www.udemy.com/certificate/UC-379ced05-0b51-4840-a380-84081d620ae7/) (Udemy)
+  - [Embedded Systems Essentials with Arm](https://courses.edx.org/certificates/865e42d2027d42fb9165240f765f9dfc) (edX)
+  - [Machine Learning](https://www.coursera.org/account/accomplishments/verify/FDLLCFYFQD9B?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course) (Stanford-Coursera)
 
-- 🗄️ All of my projects are available at [https://hackaday.io/projects/hacker/1239359](https://hackaday.io/projects/hacker/1239359)
+
+- 🗄️ All of my projects are available at [https://hackaday.io/projects/hacker/1239359](https://hackaday.io/projects/hacker/1239359).  It shows how I progressed through both of these projects in the "Logs"
 
 - 📫 How to reach me **ghani.lawal@outlook.com**
 
