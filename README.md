@@ -9,7 +9,6 @@
      - KiCad (Schematic Capture and PCB layout)
      - Multimeters, Oscilloscopes, Function Generators
      - Soldering (Surface Mount and Through-Hole)
-     - 
 - 🤖 Check out my first robotic project! [Remote Control Differential Drive Robotic Car](https://github.com/GhanGhan/Robot_Smart_Car)
   - Skills and technologies required:
      - C/C++
