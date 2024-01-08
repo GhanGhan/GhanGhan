@@ -2,14 +2,27 @@
 <h3 align="center">A passionate electrical/hardware engineer from Ontario, Canada</h3>
 
 - 🗲 I recently created a cool electrical project. [Music Spectrum and dB Visualizer](https://github.com/GhanGhan/Music_Visualizer)
+  - Skills and technologies required:
+     - Circuit Design
+     - Hardware Design
+     - LTspice (Circuit simulation)
+     - KiCad (Schematic Capture and PCB layout)
+     - Multimeters, Oscilloscopes, Function Generators
+     - Soldering (Surface Mount and Through-Hole)
 
 - 🌱 I’m currently learning to use **ARM processors!**
 
 - 🤖 Check out my first robotic project! [Remote Control Differential Drive Robotic Car](https://github.com/GhanGhan/Robot_Smart_Car)
+  - Skills and technologies required:
+     - C/C++
+     - Embedded System Design
+     - Control System Design
+     - Robotics
+     - Visual Studio Code
+     - Arduino
+     - DC motors
 
 - 🗄️ All of my projects are available at [https://hackaday.io/projects/hacker/1239359](https://hackaday.io/projects/hacker/1239359)
-
-- My projects involve the use of microcontrollers, schematic capture, PCB Design, circuit design and control systems
 
 - 📫 How to reach me **ghani.lawal@outlook.com**
 
