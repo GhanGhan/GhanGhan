@@ -24,7 +24,7 @@
   - [Machine Learning](https://www.coursera.org/account/accomplishments/verify/FDLLCFYFQD9B?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course) (Stanford-Coursera)
 
 
-- 🗄️ All of my projects are available at [https://hackaday.io/projects/hacker/1239359](https://hackaday.io/projects/hacker/1239359).  It shows how I progressed through both of these projects in the "Logs"
+- 🗄️ All of my projects are available at [Hackaday](https://hackaday.io/projects/hacker/1239359).  It shows how I progressed through both of these projects in the "Logs"
 
 - 📫 How to reach me **ghani.lawal@outlook.com**
 
