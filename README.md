@@ -13,7 +13,7 @@
   - Skills and technologies required:
      - C/C++
      - Embedded System Design
-     - Control System Design
+     - Feedback Control System Design
      - Robotics
      - Visual Studio Code
      - Arduino
