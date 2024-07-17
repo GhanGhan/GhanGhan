@@ -1,17 +1,25 @@
 <h1 align="center">Hello World 👋, I'm Ghani Lawal</h1>
 <h3 align="center">A passionate electrical/hardware engineer from Ontario, Canada</h3>
 
+- 🤖 I am currently working on Part 1 of my [SurvBot Project](https://github.com/GhanGhan/SurvBot) - Robot Control Unit (RCU)
+  - Skills and technologies used:
+     - STM32 IDE and Microcontrollers & ESP32
+     - C Programming
+     - Feedback Control System Design
+     - Circuit, Hardware & Embedded System Design
+     - KiCad (Schematic Capture and PCB layout)
+     - Power Supplies
+
 - 🗲 I recently created a cool electrical project. [Music Spectrum and dB Visualizer](https://github.com/GhanGhan/Music_Visualizer)
   - Skills and technologies used:
-     - Circuit Design
-     - Hardware Design
+     - Circuit & Hardware Design
      - LTspice (Circuit simulation)
      - KiCad (Schematic Capture and PCB layout)
      - Multimeters, Oscilloscopes, Function Generators
      - Soldering (Surface Mount and Through-Hole)
-- 🤖 Check out my first robotic project! [Remote Control Differential Drive Robotic Car](https://github.com/GhanGhan/Robot_Smart_Car)
+- 🚗 Check out my first robotic project! [Remote Control Differential Drive Robotic Car](https://github.com/GhanGhan/Robot_Smart_Car)
   - Skills and technologies used:
-     - C/C++
+     - C/C++ Programming
      - Embedded System Design
      - Feedback Control System Design
      - Robotics
