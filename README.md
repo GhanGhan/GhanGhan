@@ -26,8 +26,9 @@
      - Arduino
      - DC motors
 - List of online courses I have successfully completed:
-  - [Crash Course Electronics and PCB Design](https://www.udemy.com/certificate/UC-379ced05-0b51-4840-a380-84081d620ae7/) (Udemy)
+  - [Mixed-Signal Hardware Design with KiCad](https://certificate.fedevel.education/137c159d37506c5517087e200.pdf) (FEDEVEL)
   - [Embedded Systems Essentials with Arm](https://courses.edx.org/certificates/865e42d2027d42fb9165240f765f9dfc) (edX)
+  - [Crash Course Electronics and PCB Design](https://www.udemy.com/certificate/UC-379ced05-0b51-4840-a380-84081d620ae7/) (Udemy)
   - [Machine Learning](https://www.coursera.org/account/accomplishments/verify/FDLLCFYFQD9B?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course) (Stanford-Coursera)
 
 
