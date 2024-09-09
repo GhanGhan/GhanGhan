@@ -27,6 +27,7 @@
      - DC motors
 - List of online courses I have successfully completed:
   - [Mixed-Signal Hardware Design with KiCad](https://certificate.fedevel.education/137c159d37506c5517087e200.pdf) (FEDEVEL)
+  - [Complete Electronics Hardware Design Course 2022 -EsteemPCB](https://www.udemy.com/certificate/UC-d1c49dd4-01d9-45d1-aaf3-c9fa9a8a2be2/) (Udemy)
   - [Embedded Systems Essentials with Arm](https://courses.edx.org/certificates/865e42d2027d42fb9165240f765f9dfc) (edX)
   - [Crash Course Electronics and PCB Design](https://www.udemy.com/certificate/UC-379ced05-0b51-4840-a380-84081d620ae7/) (Udemy)
   - [Machine Learning](https://www.coursera.org/account/accomplishments/verify/FDLLCFYFQD9B?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course) (Stanford-Coursera)
