@@ -8,6 +8,7 @@
      - Feedback Control System Design
      - Circuit, Hardware & Embedded System Design
      - KiCad (Schematic Capture and PCB layout)
+     - Altium Designer (Schematic Capture, PCB Layout, Library Creation)
      - Power Supplies
 
 - 🗲 I recently created a cool electrical project. [Music Spectrum and dB Visualizer](https://github.com/GhanGhan/Music_Visualizer)
