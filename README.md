@@ -6,20 +6,28 @@ I have experience working at a fast paced startup [Swap Robotics](https://www.sw
 # Completed Projects
 ## [Music Spectrum and dB Visualizer](https://github.com/GhanGhan/Music_Visualizer)
 The device receives an audio signal from a 3.5mm jack (i.e. a headphone jack, separates the signal into the 7 music frequency ranges and their respective volumes are then displayed on 10 LED's using a decibel scale. The brightness of the LEDs and the maximum value of the decibel scale can be controlled by the user.
+![Full_3D_View](https://github.com/user-attachments/assets/a513a4b3-0c6a-411a-ad67-5cef4c470ad2)
 
 ## [Remote Control Differential Drive Robotic Car](https://github.com/GhanGhan/Robot_Smart_Car)
 The robot car is a two-wheel differential-drive mobile robot based on an Arduino Mega. The wheels are actuated by DC motors whose velocity are sensed using quadrature encoders. The linear and angular velocity commands for the car can be sent over USB or Bluetooth.  Motor control is achieved with a self-made PID algorithm.  An associated phone app was created that allows for remote control of the car via Bluetooth.
+![Prototyping_60](https://github.com/user-attachments/assets/6f8b37ed-3e90-4f94-bc96-c2d4155ba29d)
+
 
 # Projects Undergoing Review
 ## [Variable Votlage Controller](https://github.com/GhanGhan/Variable_Voltage_Controller)
 Desktop device that outputs a variable voltage whose value is controlled by the user. The user can monitor the input and output voltage and current on an LCD screen in real time.  Device accepts an input voltage of 3-17V and outputs a voltage of 1.2-20V. This device will be suitable for prototyping, lab-bench testing and recreational purposes.
+![3D_View2](https://github.com/user-attachments/assets/efefdebe-d4f9-40bd-af9e-c597660d9c18)
+
 
 ## [SurvBot - Robot Control Unit](https://github.com/GhanGhan/SurvBot) 
 Control Unit for a differential-drive mobile robot that communicates with a remote controller over Bluetooth.  The device controls 2 DC motors, senses the robots speed, orientation, motor current and measures the ambient light and temperature of the area it is driving in.   The motion and environmental data can be saved on the device and uploaded to a computer via a USB cable.  
+![Full3D2](https://github.com/user-attachments/assets/f53bb54e-3e4e-49eb-ac34-42d09c6f07c5)
+
 
 # Current Projects
 ## [SurvBot - Remote Control](https://github.com/GhanGhan/SurvBot) 
 Battery powered hand-held device that controls and monitors the state of the SurvBot.  Commands are sent and data is received over Bluetooth.  The design includes joysticks to control the robot’s velocity, buttons to change the mode it is in and a screen to display the sensor data.  Can be used outdoors or indoors.
+![Controller Block Diagram](https://github.com/user-attachments/assets/fa5e7fad-1c20-4144-bc06-8cf4144eeb03)
 
 # Skills and Technologies Used
 -	STM32 IDE, Visual Studio Code, Arduino
