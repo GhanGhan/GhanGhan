@@ -10,7 +10,7 @@ The device receives an audio signal from a 3.5mm jack (i.e. a headphone jack, se
 ## [Remote Control Differential Drive Robotic Car](https://github.com/GhanGhan/Robot_Smart_Car)
 The robot car is a two-wheel differential-drive mobile robot based on an Arduino Mega. The wheels are actuated by DC motors whose velocity are sensed using quadrature encoders. The linear and angular velocity commands for the car can be sent over USB or Bluetooth.  Motor control is achieved with a self-made PID algorithm.  An associated phone app was created that allows for remote control of the car via Bluetooth.
 
-#Projects Undergoing Review
+# Projects Undergoing Review
 ## [Variable Votlage Controller](https://github.com/GhanGhan/Variable_Voltage_Controller)
 Desktop device that outputs a variable voltage whose value is controlled by the user. The user can monitor the input and output voltage and current on an LCD screen in real time.  Device accepts an input voltage of 3-17V and outputs a voltage of 1.2-20V. This device will be suitable for prototyping, lab-bench testing and recreational purposes.
 
