@@ -27,7 +27,8 @@ Control Unit for a differential-drive mobile robot that communicates with a remo
 # Current Projects
 ## [SurvBot - Remote Control](https://github.com/GhanGhan/SurvBot) 
 Battery powered hand-held device that controls and monitors the state of the SurvBot.  Commands are sent and data is received over Bluetooth.  The design includes joysticks to control the robot’s velocity, buttons to change the mode it is in and a screen to display the sensor data.  Can be used outdoors or indoors.
-![Controller Block Diagram](https://github.com/user-attachments/assets/fa5e7fad-1c20-4144-bc06-8cf4144eeb03)
+![Controller Block Diagram V2](https://github.com/user-attachments/assets/80346566-815f-4cd4-b8ae-ef0e24bdd0c3)
+
 
 # Skills and Technologies Used
 -	STM32 IDE, Visual Studio Code, Arduino
