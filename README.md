@@ -14,6 +14,12 @@ The robot car is a two-wheel differential-drive mobile robot based on an Arduino
 
 
 # Projects Undergoing Review
+## [SurvBot - Remote Control](https://github.com/GhanGhan/SurvBot) 
+Battery powered hand-held device that controls and monitors the state of the SurvBot.  Commands are sent and data is received over Bluetooth.  The design includes joysticks to control the robot’s velocity, buttons to change the mode it is in and a screen to display the sensor data.  Can be used outdoors or indoors.
+![3D View Angle](https://github.com/user-attachments/assets/59e737eb-a533-46f1-b694-ad570eb5defd)
+
+
+
 ## [Variable Votlage Controller](https://github.com/GhanGhan/Variable_Voltage_Controller)
 Desktop device that outputs a variable voltage whose value is controlled by the user. The user can monitor the input and output voltage and current on an LCD screen in real time.  Device accepts an input voltage of 3-17V and outputs a voltage of 1.2-20V. This device will be suitable for prototyping, lab-bench testing and recreational purposes.
 ![3D_View2](https://github.com/user-attachments/assets/efefdebe-d4f9-40bd-af9e-c597660d9c18)
@@ -24,10 +30,7 @@ Control Unit for a differential-drive mobile robot that communicates with a remo
 ![Full3D2](https://github.com/user-attachments/assets/f53bb54e-3e4e-49eb-ac34-42d09c6f07c5)
 
 
-# Current Projects
-## [SurvBot - Remote Control](https://github.com/GhanGhan/SurvBot) 
-Battery powered hand-held device that controls and monitors the state of the SurvBot.  Commands are sent and data is received over Bluetooth.  The design includes joysticks to control the robot’s velocity, buttons to change the mode it is in and a screen to display the sensor data.  Can be used outdoors or indoors.
-![Controller Block Diagram V2](https://github.com/user-attachments/assets/80346566-815f-4cd4-b8ae-ef0e24bdd0c3)
+
 
 
 # Skills and Technologies Used
