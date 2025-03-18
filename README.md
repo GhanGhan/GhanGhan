@@ -22,7 +22,8 @@ Battery powered hand-held device that controls and monitors the state of the Sur
 
 ## [Variable Votlage Controller](https://github.com/GhanGhan/Variable_Voltage_Controller)
 Desktop device that outputs a variable voltage whose value is controlled by the user. The user can monitor the input and output voltage and current on an LCD screen in real time.  Device accepts an input voltage of 3-17V and outputs a voltage of 1.2-20V. This device will be suitable for prototyping, lab-bench testing and recreational purposes.
-![3D_View2](https://github.com/user-attachments/assets/efefdebe-d4f9-40bd-af9e-c597660d9c18)
+![3d View Angled](https://github.com/user-attachments/assets/0e84130c-7a4c-4245-8d27-265ef03d714b)
+
 
 
 ## [SurvBot - Robot Control Unit](https://github.com/GhanGhan/SurvBot) 
