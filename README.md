@@ -18,7 +18,7 @@ The robot car is a two-wheel differential-drive mobile robot based on an Arduino
 ## [Variable Votlage Controller](https://github.com/GhanGhan/Variable_Voltage_Controller)
 Desktop device that outputs a variable voltage whose value is controlled by the user. The user can monitor the input and output voltage and current on an LCD screen in real time.  Device accepts an input voltage of 3-17V and outputs a voltage of 1.2-20V. This device will be suitable for prototyping, lab-bench testing and recreational purposes.
 ![3d View Angled](https://github.com/user-attachments/assets/0e84130c-7a4c-4245-8d27-265ef03d714b)
-![signal-2025-08-17-225050](https://github.com/user-attachments/assets/2a3879d3-1960-49dc-9ecc-6be735737d04)
+![signal-2025-08-18-134307_003](https://github.com/user-attachments/assets/5e080d1b-ad04-4ad0-bda1-b123341d9a32)
 
 
 
