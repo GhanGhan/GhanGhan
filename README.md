@@ -5,7 +5,7 @@ I have experience working at a fast paced startup [Swap Robotics](https://www.sw
 
 # Completed Projects
 ## [Variable Votlage Controller](https://github.com/GhanGhan/Variable_Voltage_Controller)
-Desktop device that outputs a variable voltage whose value is controlled by the user. The user can monitor the input and output voltage and current on an LCD screen in real time.  Device accepts an input voltage of 3-17V and outputs a voltage of 1.2-20V. This device will be suitable for prototyping, lab-bench testing and recreational purposes.
+Desktop device that outputs a variable voltage whose value is controlled by the user. The user can monitor the input and output voltage and current on an LCD screen in real time.  Device accepts an input voltage of 3-17V and outputs a voltage of 1.32-20V. This device will be suitable for prototyping, lab-bench testing and recreational purposes.
 <img width="1446" height="930" alt="Var_Volt_Conv_adj" src="https://github.com/user-attachments/assets/f0c66506-7534-43c6-b49b-5d7e76313197" />
 <img width="1753" height="1071" alt="Adjusted" src="https://github.com/user-attachments/assets/ccf01eaf-8cf0-4ff6-a9ec-33866a0f7073" />
 
