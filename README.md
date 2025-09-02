@@ -4,6 +4,11 @@
 I have experience working at a fast paced startup [Swap Robotics](https://www.swaprobotics.com).  This, plus the knowledge I gain from taking technical courses and working on personal hardware projects make highly skilled and hands-on engineer.
 
 # Completed Projects
+## [Variable Votlage Controller](https://github.com/GhanGhan/Variable_Voltage_Controller)
+Desktop device that outputs a variable voltage whose value is controlled by the user. The user can monitor the input and output voltage and current on an LCD screen in real time.  Device accepts an input voltage of 3-17V and outputs a voltage of 1.2-20V. This device will be suitable for prototyping, lab-bench testing and recreational purposes.
+<img width="1446" height="930" alt="Var_Volt_Conv_adj" src="https://github.com/user-attachments/assets/f0c66506-7534-43c6-b49b-5d7e76313197" />
+<img width="1753" height="1071" alt="Adjusted" src="https://github.com/user-attachments/assets/ccf01eaf-8cf0-4ff6-a9ec-33866a0f7073" />
+
 ## [Music Spectrum and dB Visualizer](https://github.com/GhanGhan/Music_Visualizer)
 The device receives an audio signal from a 3.5mm jack (i.e. a headphone jack, separates the signal into the 7 music frequency ranges and their respective volumes are then displayed on 10 LED's using a decibel scale. The brightness of the LEDs and the maximum value of the decibel scale can be controlled by the user.
 ![Full_3D_View](https://github.com/user-attachments/assets/a513a4b3-0c6a-411a-ad67-5cef4c470ad2)
@@ -12,13 +17,9 @@ The device receives an audio signal from a 3.5mm jack (i.e. a headphone jack, se
 
 ## [Remote Control Differential Drive Robotic Car](https://github.com/GhanGhan/Robot_Smart_Car)
 The robot car is a two-wheel differential-drive mobile robot based on an Arduino Mega. The wheels are actuated by DC motors whose velocity are sensed using quadrature encoders. The linear and angular velocity commands for the car can be sent over USB or Bluetooth.  Motor control is achieved with a self-made PID algorithm.  An associated phone app was created that allows for remote control of the car via Bluetooth.
-![Prototyping_60](https://github.com/user-attachments/assets/6f8b37ed-3e90-4f94-bc96-c2d4155ba29d)
-
-# Assembed and Programmed Projects Undergoing Testing
-## [Variable Votlage Controller](https://github.com/GhanGhan/Variable_Voltage_Controller)
-Desktop device that outputs a variable voltage whose value is controlled by the user. The user can monitor the input and output voltage and current on an LCD screen in real time.  Device accepts an input voltage of 3-17V and outputs a voltage of 1.2-20V. This device will be suitable for prototyping, lab-bench testing and recreational purposes.
-<img width="1446" height="930" alt="Var_Volt_Conv_adj" src="https://github.com/user-attachments/assets/f0c66506-7534-43c6-b49b-5d7e76313197" />
-<img width="1753" height="1071" alt="Adjusted" src="https://github.com/user-attachments/assets/ccf01eaf-8cf0-4ff6-a9ec-33866a0f7073" />
+<img width="1393" height="602" alt="RoboComponents2" src="https://github.com/user-attachments/assets/7a1d6357-6de2-4de2-943f-1c605b16f3c6" />
+<img width="1398" height="786" alt="DifferentialDrive" src="https://github.com/user-attachments/assets/ba5b7211-ba23-493b-b741-72b20895afb9" />
+<img width="1280" height="720" alt="StepUpTo130" src="https://github.com/user-attachments/assets/d01729a5-ccb7-48ea-9fee-94ee598c5865" />
 
 
 
